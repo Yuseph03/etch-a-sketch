@@ -1,0 +1,13 @@
+.controls-container {
+    float: left;
+}
+.grid-container {
+    display: grid;
+    float: right;
+    margin: 3em 5em 1em 0;
+    border: solid #ccc 4px;
+    border-radius: 5px;
+    height: 650px;
+    width: 700px;
+}
+
